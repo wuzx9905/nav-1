@@ -162,6 +162,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 64px;
+    font-family: inherit;
     transition: transform 500ms;
 }
 
